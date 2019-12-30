@@ -8,3 +8,6 @@ edit test3.txt on testbranch2....
 edited test3.txt on testbranch
 2nd edit test3.txt on testbranch
 >>>>>>> testbranch
+
+aThis is an edit on test3.txt on master and needed
+# to be synced to github.....
