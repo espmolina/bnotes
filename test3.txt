@@ -1,5 +1,10 @@
 test3.txt
 The quick brown fox jump over the lazy dog.
+<<<<<<< HEAD
 test3.txt 2md edit:
 The quick brown
 edit test3.txt on testbranch2....
+=======
+edited test3.txt on testbranch
+2nd edit test3.txt on testbranch
+>>>>>>> testbranch
