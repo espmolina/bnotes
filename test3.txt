@@ -9,5 +9,9 @@ edited test3.txt on testbranch
 2nd edit test3.txt on testbranch
 >>>>>>> testbranch
 
-aThis is an edit on test3.txt on master and needed
+This is an edit on test3.txt on master and needed
 # to be synced to github.....
+
+## This edit is done on MPB1Pro13 as edited on 130437molina/bnotes as forked from espmolina/bnotes
+The quick brown fox jump over the lazy dog 1234567890
+The quick brown fox jump over the lazy dog 1234567890
